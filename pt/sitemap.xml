@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lifestudylab.github.io/pt/categories/</loc>
+    <loc>https://lifestudylab.github.io/pt/tags/about/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/page/about/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/tags/blog/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
   </url><url>
     <loc>https://lifestudylab.github.io/pt/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/page/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
   </url><url>
     <loc>https://lifestudylab.github.io/pt/tags/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/blog/</loc>
+    <lastmod>2024-06-19T11:54:26-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/tags/hello/</loc>
+    <lastmod>2024-06-19T11:54:26-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/blog/hello_world/</loc>
+    <lastmod>2024-06-19T11:54:26-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/pt/categories/</loc>
   </url>
 </urlset>
