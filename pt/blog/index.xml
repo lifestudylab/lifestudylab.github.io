@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Life Study Lab</title>
-    <link>https://lifestudylab.github.io/pt/blog/</link>
+    <link>http://localhost:1313/pt/blog/</link>
     <description>Recent content in Blogs on Life Study Lab</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Wed, 19 Jun 2024 16:05:17 -0300</lastBuildDate>
-    <atom:link href="https://lifestudylab.github.io/pt/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test2</title>
-      <link>https://lifestudylab.github.io/pt/blog/test2/</link>
+      <link>http://localhost:1313/pt/blog/test2/</link>
       <pubDate>Wed, 19 Jun 2024 16:05:17 -0300</pubDate>
-      <guid>https://lifestudylab.github.io/pt/blog/test2/</guid>
+      <guid>http://localhost:1313/pt/blog/test2/</guid>
       <description>Teste 2 </description>
     </item>
     <item>
       <title>Hello_world</title>
-      <link>https://lifestudylab.github.io/pt/blog/hello_world/</link>
+      <link>http://localhost:1313/pt/blog/hello_world/</link>
       <pubDate>Wed, 19 Jun 2024 11:54:26 -0300</pubDate>
-      <guid>https://lifestudylab.github.io/pt/blog/hello_world/</guid>
+      <guid>http://localhost:1313/pt/blog/hello_world/</guid>
       <description>Hello World Aqui é o teste do primeiro post!</description>
     </item>
   </channel>

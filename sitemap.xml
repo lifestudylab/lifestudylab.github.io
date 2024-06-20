@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://lifestudylab.github.io/pt/sitemap.xml</loc>
-    
-      <lastmod>2024-06-19T16:05:17-03:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lifestudylab.github.io/tags/blog/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/blog/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/blog/second_blog/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/tags/tag/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/tags/</loc>
+    <lastmod>2024-06-19T16:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/tags/about/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/page/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/page/sobre/</loc>
+    <lastmod>2024-06-19T11:55:06-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/tags/hello/</loc>
+    <lastmod>2024-06-19T11:54:26-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/blog/hello_world/</loc>
+    <lastmod>2024-06-19T11:54:26-03:00</lastmod>
+  </url><url>
+    <loc>https://lifestudylab.github.io/categories/</loc>
+  </url>
+</urlset>
