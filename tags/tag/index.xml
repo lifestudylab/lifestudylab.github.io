@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Life Study Lab</title>
-    <link>https://lifestudylab.github.io/tags/tag/</link>
+    <link>http://localhost:1313/tags/tag/</link>
     <description>Recent content in Tag on Life Study Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 19 Jun 2024 16:05:17 -0300</lastBuildDate>
-    <atom:link href="https://lifestudylab.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Blog</title>
-      <link>https://lifestudylab.github.io/blog/second-blog/</link>
+      <title>Descubar os Benefícios e Auxílios Disponíveis para Famílias com Necessidades Especiais</title>
+      <link>http://localhost:1313/blog/2024/06/second-blog/</link>
       <pubDate>Wed, 19 Jun 2024 16:05:17 -0300</pubDate>
-      <guid>https://lifestudylab.github.io/blog/second-blog/</guid>
-      <description>Teste 2 </description>
+      <guid>http://localhost:1313/blog/2024/06/second-blog/</guid>
+      <description>As famílias que têm membros com necessidades especiais enfrentam desafios únicos e, muitas vezes, precisam de apoio adicional para garantir que todos recebam os cuidados e recursos necessários. Felizmente, existem diversos benefícios e auxílios disponíveis para ajudar essas famílias a lidar com suas necessidades específicas. Este texto explora algumas das principais formas de apoio, fornecendo uma visão geral dos recursos disponíveis.&#xA;Benefícios Governamentais Benefício de Prestação Continuada (BPC) O BPC é um benefício assistencial do governo federal brasileiro que garante um salário mínimo mensal para pessoas com deficiência de qualquer idade, desde que comprovem baixa renda.</description>
     </item>
   </channel>
 </rss>
