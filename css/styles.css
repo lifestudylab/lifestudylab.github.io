@@ -1130,14 +1130,14 @@ a.page-link {
 .hidden {
   display: none;
 }
-.h-16 {
-  height: 4rem;
-}
 .h-52 {
   height: 13rem;
 }
 .h-8 {
   height: 2rem;
+}
+.h-auto {
+  height: auto;
 }
 .h-full {
   height: 100%;
@@ -1147,6 +1147,9 @@ a.page-link {
 }
 .w-1\/2 {
   width: 50%;
+}
+.w-\[14vw\] {
+  width: 14vw;
 }
 .w-full {
   width: 100%;
@@ -1159,6 +1162,9 @@ a.page-link {
 }
 .max-w-5xl {
   max-width: 64rem;
+}
+.max-w-\[120px\] {
+  max-width: 120px;
 }
 .max-w-full {
   max-width: 100%;
